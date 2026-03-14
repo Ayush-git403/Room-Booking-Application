@@ -1,18 +1,18 @@
 # 🏠 Room Booking Application
-A **full-stack room booking platform inspired by Airbnb** where users can browse properties, view room details, and manage bookings.<br>
+A **full-stack room booking platform inspired by Airbnb** where users can browse properties, view room details, and manage bookings.<br><br>
 This project demonstrates **backend development, MVC architecture, database integration, and REST API design**.
 
 # ✨ Features
 
-🔍 Browse available rooms
-🏡 View detailed property listings
-📸 Upload room images
-➕ Add new room listings
-✏️ Update property details
-❌ Delete listings
-🔐 Session based authentication
-📦 RESTful CRUD APIs
-🎨 Server-side rendering with EJS
+🔍 Browse available rooms<br>
+🏡 View detailed property listings<br>
+📸 Upload room images<br>
+➕ Add new room listings<br>
+✏️ Update property details<br>
+❌ Delete listings<br>
+🔐 Session based authentication<br>
+📦 RESTful CRUD APIs<br>
+🎨 Server-side rendering with EJS<br>
 
 ---
 
@@ -175,31 +175,31 @@ nodemon app.js
 ```
 # 🚀 Future Improvements
 
-⭐ User authentication with JWT
-⭐ Payment gateway integration
-⭐ Booking calendar
-⭐ Reviews & ratings
-⭐ Search & filters
-⭐ Cloud image storage
+⭐ User authentication with JWT<br>
+⭐ Payment gateway integration<br>
+⭐ Booking calendar<br>
+⭐ Reviews & ratings<br>
+⭐ Search & filters<br>
+⭐ Cloud image storage<br>
 
 ---
 
 # 📚 What I Learned
 
-✔ Building REST APIs with Express
-✔ Implementing MVC architecture
-✔ MongoDB database design
-✔ File upload handling with Multer
-✔ Session based authentication
-✔ Structuring full-stack projects
+✔ Building REST APIs with Express<br>
+✔ Implementing MVC architecture<br>
+✔ MongoDB database design<br>
+✔ File upload handling with Multer<br>
+✔ Session based authentication<br>
+✔ Structuring full-stack projects<br>
 
 ---
 
 # 👨‍💻 Author
 
-**Ayushman Srivastava**
+**Ayushman Srivastava**<br>
 
-🎓 B.Tech Computer Science Engineering
+🎓 B.Tech Computer Science Engineering<br>
 🔗 GitHub
 https://github.com/Ayush-git403
 
