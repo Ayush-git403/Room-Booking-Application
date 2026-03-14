@@ -1,5 +1,5 @@
 # 🏠 Room Booking Application
-A **full-stack room booking platform inspired by Airbnb** where users can browse properties, view room details, and manage bookings.
+A **full-stack room booking platform inspired by Airbnb** where users can browse properties, view room details, and manage bookings.<br>
 This project demonstrates **backend development, MVC architecture, database integration, and REST API design**.
 
 # ✨ Features
